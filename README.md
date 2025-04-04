@@ -96,41 +96,6 @@ bitotsav-website/
 
 ---
 
-## 👨‍💻 Maintainer
-
-**Arya Chakraborty**  
-🔗 [GitHub](https://github.com/Arya-Chakraborty)
-
----
-
-> Crafted with ❤️ for Bitotsav - Celebrating Culture, Creativity & Collaboration!
-```
-
----
-
-Let me know if you also want to generate banners, favicons, or auto-deployment configs for Render/Vercel!
----
-
-
-## git clone
-
-```bash
-git clone https://github.com/bitotsav-fest/website .
-```
-
-## Start Server
-
-```bash
-npm i && npm run dev
-
-```
-
----
-
-```bash
-cp env.example .env
-```
-
 ## Objectives
 
 - **Inform**: Provide comprehensive details about Bitotsav, including dates, events, schedules, and venues.
@@ -185,11 +150,20 @@ cp env.example .env
 - **SEO Optimization**: Incorporate relevant keywords to improve search engine ranking.
 - **Regular Updates**: Keep the site updated with the latest information and announcements.
 
+---
+
+## 👨‍💻 Maintainer
+
+**Arya Chakraborty**  
+🔗 [GitHub](https://github.com/Arya-Chakraborty)
+
+---
+> Crafted with ❤️ for Bitotsav - Celebrating Culture, Creativity & Collaboration
+---
+
 # Contributors
 
 ![Contributors](/public/contributions.png)
-
-
 
 ## References
 
