@@ -152,16 +152,7 @@ bitotsav-website/
 
 ---
 
-## 👨‍💻 Maintainer
-
-**Arya Chakraborty**  
-🔗 [GitHub](https://github.com/Arya-Chakraborty)
-
----
-> Crafted with ❤️ for Bitotsav - Celebrating Culture, Creativity & Collaboration
----
-
-# Contributors
+# 👨‍💻 Contributors
 
 ![Contributors](/public/contributions.png)
 
@@ -171,3 +162,6 @@ bitotsav-website/
 - [Bitotsav YouTube Channel](https://www.youtube.com/@bitotsav3377)
 - [BIT Mesra Official Website](https://www.bitmesra.ac.in/)
 
+---
+> Crafted with ❤️ for Bitotsav - Celebrating Culture, Creativity & Collaboration
+---
