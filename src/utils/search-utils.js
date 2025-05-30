@@ -1,8 +1,7 @@
 import stringSimilarity from 'string-similarity';
 
 const API_KEYS = [
-    "AIzaSyBkyHKIW_LmTQr029mky-9ImgDQm7i6grs",
-    "AIzaSyCr_I_5l2PVIT0oqsTXbNMDDyVT8a92Yzk",
+    # use .env
 ];
 
 
